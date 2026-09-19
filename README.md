@@ -1,4 +1,4 @@
-# Desafío Gazebo ROS2 — Cobertura Autónoma con TurtleBot3
+# Desafío Gazebo ROS2 - Cobertura Autónoma con TurtleBot3
 
 Paquete ROS2 (Jazzy) para el proyecto final de "Proyecto de Robots II": un
 TurtleBot3 Burger explora de forma autónoma el escenario `stage4` de Gazebo,
@@ -63,13 +63,13 @@ source install/setup.bash
 
 ## Cómo ejecutar
 
-Terminal 1 — levantar el simulador:
+Terminal 1 - levantar el simulador:
 ```bash
 export TURTLEBOT3_MODEL=burger
 ros2 launch turtlebot3_gazebo turtlebot3_dqn_stage4.launch.py
 ```
 
-Terminal 2 — correr el nodo de control:
+Terminal 2 - correr el nodo de control:
 ```bash
 source ~/turtlebot3_ws/install/setup.bash
 ros2 run turtlebot3_control_ros2 turtlebot_ctrl
