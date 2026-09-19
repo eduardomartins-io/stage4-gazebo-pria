@@ -85,3 +85,7 @@ celda nueva del mapa discreto.
 - `front_angle_deg`: ancho del sector frontal analizado.
 - `avoid_ticks_left`: duración del comportamiento de esquive
   (retroceso + giro comprometido).
+
+## Video de demostración
+
+[Pendiente — se agrega el enlace una vez grabado y subido]
