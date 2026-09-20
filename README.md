@@ -88,4 +88,4 @@ celda nueva del mapa discreto.
 
 ## Video de demostración
 
-[Pendiente — se agrega el enlace una vez grabado y subido]
+https://drive.google.com/file/d/1J_wmaJWtAZxnOl52CU7uZI4Rj6w5Gl3Y/view?usp=sharing
